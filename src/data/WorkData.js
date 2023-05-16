@@ -23,7 +23,7 @@ export const Work = [
     {
         id:3,
         name:"dễ thương",
-        description:"dễ thương hết phần thiên hạ -.-",
+        description:"Mỗi cây mỗi hoa, mỗi nhà mỗi cảnh, Mỗi mình Thảo dễ thương",
         tags:["beautiful","cute"],
         
         demo:"https://www.facebook.com/profile.php?id=100034433200560",
