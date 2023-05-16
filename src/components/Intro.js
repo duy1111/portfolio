@@ -81,7 +81,7 @@ const Intro = () => {
                 <Text>
                     <h1>Hi,</h1>
                     <h3>I'm Phương Thảo.</h3>
-                    <h6>Tôi là nhân viên cute</h6>
+                    <h6>tui là nhân viên cute</h6>
                 </Text>
             </SubBox>
             <SubBox>

@@ -159,7 +159,7 @@ const Main = () => {
                 whileTap={{scale: 0.9}}
                 
                 >
-                    Nhắn cho tôi..
+                    Nhắn cho tui..
                 </motion.h2>
             </Contact>
             <BLOG to="/blog">
