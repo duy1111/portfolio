@@ -39,7 +39,7 @@ export const Blogs = [
         tags:["Marketing","SEO","Content"],
         date:"3 Feb, 2021",
         imgSrc:"https://seothetop.com/cms/medias/standard/2023/3/14/phat-trien-sang-kien-okr_160210.png",
-        link:"https://codebucks.hashnode.dev/what-is-higher-order-component"
+        link:"https://www.ngoclinhphan.com/"
     },
     {
         id:6,
