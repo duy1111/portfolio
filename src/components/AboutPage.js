@@ -72,11 +72,10 @@ const AboutPage = () => {
             <img src={astronaut} alt="spaceman" />
         </Spaceman>    
         <Main>
-        I'm a front-end developer located in India. I love to create simple yet beautiful websites with great user experience.
-<br /> <br/>
-I'm interested in the whole frontend stack Like trying new things and building great projects. I'm an independent freelancer and blogger. I love to write blogs and read books.
-<br/> <br/>
-I believe everything is an Art when you put your consciousness in it. You can connect with me via social links.
+        As a part-time employee with one year of experience, I bring a diverse skill set and a strong work ethic to any role I take on. Throughout my professional journey, I have developed valuable expertise in various areas, allowing me to contribute effectively in part-time positions. With my solid foundation and dedication, I consistently strive to deliver exceptional results.<br />
+         <br/>
+         During my one year of experience as a part-time employee, I have honed my organizational and time management skills, enabling me to efficiently handle multiple tasks and meet deadlines. I have also cultivated excellent communication and interpersonal abilities, allowing me to collaborate seamlessly with colleagues and provide exceptional customer service. I love to write blogs and read books.
+<br/> 
         </Main>
 
         <BigTitle text="ABOUT" top="10%" left="5%" />

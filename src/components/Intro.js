@@ -44,7 +44,7 @@ display: flex;
     bottom: 0;
     left: 50%;
     transform: translate(-50%,0%);
-    width: 100%;
+    width: 70%;
     height: auto;
 }
 `
@@ -80,8 +80,8 @@ const Intro = () => {
             <SubBox>
                 <Text>
                     <h1>Hi,</h1>
-                    <h3>I'm CodeBucks.</h3>
-                    <h6>I design and Code simple yet beautiful websites.</h6>
+                    <h3>I'm Phương Thảo.</h3>
+                    <h6> am a part-time employee who is beautiful.</h6>
                 </Text>
             </SubBox>
             <SubBox>

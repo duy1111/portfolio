@@ -93,52 +93,40 @@ const MySkillsPage = () => {
 <ParticleComponent theme='light' />
             <Main>
 <Title>
-    <Design width={40} height={40} /> Designer
+    <Design width={40} height={40} /> Time management
 </Title>
 <Description>
-I love to create design which speaks, Keep it clean, minimal and simple.
+Time management is a crucial skill for a part-time employee.
 </Description>
 <Description>
-<strong>I like to Design</strong>
-<ul>
-    <li>
-        Web Design
-    </li>
-    <li>
-        Mobile Apps
-    </li>
-</ul>
+<strong>Skills</strong>
+<p>
+    It involves prioritizing tasks, effectively allocating time, and meeting deadlines.
+</p>
 </Description>
 <Description>
-<strong>Tools</strong>
-<ul>
-    <li>
-       Figma
-    </li>
-    
-</ul>
+<strong>benefit</strong>
+<p>
+    Good time management ensures that a part-time employee can efficiently complete work and meet time requirements.
+</p>
 </Description>
 
             </Main>
             <Main>
 <Title>
-    <Develope width={40} height={40} /> Frontend Developer
+    <Develope width={40} height={40} /> Communication skill
 </Title>
 <Description>
-I value business or brand for which i'm creating, thus i enjoy bringing new ideas to life.
+Part-time employees often work with colleagues and customers within limited time frames. 
 </Description>
 <Description>
 <strong>Skills</strong>
-<p>
-Html, Css, Js, React, Redux, Sass, Bootstrap, Tailwind, Firebase etc.
-</p>
+<ul>
+    <li>Strong communication skills are essential for effectively interacting with others and conveying information clearly. </li>
+    <li>Communication skills also encompass active listening and understanding colleagues' and customers' needs and feedback.</li>
+</ul>
 </Description>
-<Description>
-<strong>Tools</strong>
-<p>
-VScode, Github, Codepen etc.
-</p>
-</Description>
+
 
             </Main>
 

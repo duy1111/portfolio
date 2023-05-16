@@ -3,69 +3,69 @@
 export const Blogs = [
     {
         id:1,
-        name:"Build Website with ReactJS, Styled-components and GSAP for Scrolling Animations",
-        tags:["react","gsap","styled-components"],
+        name:"Blog chia sẻ về kiến thức Digital Marketing, Content Writing và Copywriting cũng như là định hướng về nghề viết cho các bạn newbie.",
+        tags:["Digital-Marketing,","Content"],
         date:"13 May, 2021",
-        imgSrc:"https://res.cloudinary.com/practicaldev/image/fetch/s--sBeV06Xc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2yrzy75q4dzibqz6rf82.png",
-        link:"https://dev.to/codebucks/build-website-with-reactjs-styled-components-and-gsap-for-scrolling-animations-2f10"
+        imgSrc:"https://phungthaihoc.com/wp-content/uploads/2021/08/IMG_0796-740x493.jpg",
+        link:"https://phungthaihoc.com/"
     },
     {
         id:2,
-        name:"How to create React Hamburger Menu using Styled-Components",
-        tags:["react","styled-components"],
+        name:"Blog chia sẻ về việc kiếm tiền bằng nghề viết Blog full-time thông qua bán dịch vụ và Affiliate. Ngoài ra anh Ngọc còn làm các Podcast về nghề làm Blog rất hay và hữu ích.",
+        tags:["Blog","full-time","Affiliate"],
         date:"5 July, 2021",
-        imgSrc:"https://codebucks.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1625479747640%2F7KzwP9nmj.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75",
-        link:"https://codebucks.hashnode.dev/react-hamburger-menu"
+        imgSrc:"https://ngocdenroi.com/wp-content/uploads/2023/04/cong-cu-ai-viet-content.png.webp",
+        link:"https://ngocdenroi.com/blog"
     },
     {
         id:3,
-        name:"React Loading Screen: Try these 3 cool loading screens for your app",
-        tags:["react","react-lottie","styled-components"],
+        name:"Chia sẻ các bí quyết xây dựng một Blog chuyên nghiệp, MMO và Digital Marketing",
+        tags:["Blog","Digital-Marketing","MMO"],
         date:"6 July, 2021",
-        imgSrc:"https://codebucks.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1625552344293%2Fegwis0UIX.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75",
-        link:"https://codebucks.hashnode.dev/react-loading-screens"
+        imgSrc:"https://toithichblog.com/mua-chung-ladipage/",
+        link:"https://toithichblog.com/"
     },
     {
         id:4,
-        name:"How to build a Fabulous Todo App using React, Redux and Framer-Motion",
-        tags:["react","redux","framer-motion"],
+        name:"Cung cấp kiến thức về SEO và Content SEO.",
+        tags:["Content","SEO"],
         date:"26 May, 2021",
-        imgSrc:"https://res.cloudinary.com/practicaldev/image/fetch/s--r5oUDhhT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/036s7j5b73up7455rdth.png",
-        link:"https://dev.to/codebucks/build-redux-react-todo-list-app-with-animations-using-framer-motion-1mp1"
+        imgSrc:"https://seothetop.com/cms/medias/standard/2023/3/14/phat-trien-sang-kien-okr_160210.png",
+        link:"https://seothetop.com/"
     },
     {
         id:5,
-        name:"What is Higher Order Component (HOC) in React JS?",
-        tags:["react","reactJS","web-development"],
+        name:"Cung cấp kiến thức SEO, Content và Marketing. Bên cạnh đó còn chia sẻ Tips, kỹ thuật một cách cực kỳ chi tiết và hữu ích.",
+        tags:["Marketing","SEO","Content"],
         date:"3 Feb, 2021",
-        imgSrc:"https://codebucks.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1625295480148%2FlyKj8bpHK.jpeg%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75",
+        imgSrc:"https://seothetop.com/cms/medias/standard/2023/3/14/phat-trien-sang-kien-okr_160210.png",
         link:"https://codebucks.hashnode.dev/what-is-higher-order-component"
     },
     {
         id:6,
-        name:"How to implement Pagination Component in React from scratch",
-        tags:["react","css"],
+        name:"Chia sẻ kiến thức về kĩ năng viết cũng như là Tips Freelance.",
+        tags:["Freelance"],
         date:"5 Jan, 2021",
-        imgSrc:"https://codebucks.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1625240050668%2FGAya9b0XK.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75",
-        link:"https://codebucks.hashnode.dev/pagination-in-react"
+        imgSrc:"https://static.wixstatic.com/media/db9f49_8e8cb5c7902a4d4d99967e20f80e507c~mv2.jpeg/v1/fill/w_1248,h_1876,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/db9f49_8e8cb5c7902a4d4d99967e20f80e507c~mv2.jpeg",
+        link:"https://www.ngoclinhphan.com/"
 
     },
    
     {
         id:7,
-        name:"What is Redux ? Simply Explained!",
-        tags:["react","redux","javascript"],
+        name:"Một Blog về du lịch, khá đẹp. Có thể tham khảo",
+        tags:["Blog"],
         date:"16 May, 2021",
-        imgSrc:"https://res.cloudinary.com/practicaldev/image/fetch/s--ZY1EK-Eo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bcz1u90oq3prr5fga3fs.png",
-        link:"https://dev.to/codebucks/what-is-redux-simply-explained-2ch7"
+        imgSrc:"https://venturology.files.wordpress.com/2023/05/img_6069.jpg",
+        link:"Link: https://lythanhco.com/"
     },
     {
         id:8,
-        name:"How to create Sidebar navigation menu in ReactJS with react router and framer-motion",
-        tags:["react","framer-motion","styled-components"],
+        name:"Blog khá hay của một Content Creator, một Storyteller",
+        tags:["Blog","Content-Creator"],
         date:"26 May, 2021",
-        imgSrc:"https://res.cloudinary.com/practicaldev/image/fetch/s--rv4I8UwE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0a9h50milhlf1us6mn4a.png",
-        link:"https://dev.to/codebucks/build-sidebar-navigation-menu-in-reactjs-with-react-router-and-framer-motion-for-cool-page-transition-effects-4bc3"
+        imgSrc:"https://ngocdenroi.com/wp-content/uploads/2023/04/cong-cu-ai-viet-content.png.webp",
+        link:"https://jeennguyen.com/"
     },
   
 ] 
