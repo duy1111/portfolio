@@ -4,7 +4,7 @@ export const Work = [
     {
         id:1,
         name:"xinh đẹp",
-        description:"bé này rất xinh đẹp nha!",
+        description:"trúc xinh trúc mọc đầu đình Thảo xinh thảo đứng mụt mình cũng xinh",
         tags:["beautiful","cute"],
         
         demo:"https://www.facebook.com/profile.php?id=100034433200560",
@@ -13,7 +13,7 @@ export const Work = [
     {
         id:2,
         name:"cute",
-        description:"Người gì mà cute dữ zậy",
+        description:"Con cò be bé \nNó đậu cành tre\nBé này cute\nNên cho 10đ",
         tags:["beautiful","cute"],
         
         demo:"https://www.facebook.com/profile.php?id=100034433200560",
@@ -22,8 +22,8 @@ export const Work = [
     },
     {
         id:3,
-        name:"dễ thương hết phần thiên hạ",
-        description:"đã xinh rồi mà còn dễ thương hết phần thiên hạ nữa chứ -.-",
+        name:"dễ thương",
+        description:"dễ thương hết phần thiên hạ -.-",
         tags:["beautiful","cute"],
         
         demo:"https://www.facebook.com/profile.php?id=100034433200560",
