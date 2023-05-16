@@ -3,31 +3,31 @@
 export const Work = [
     {
         id:1,
-        name:"Bony supermarket",
-        description:"Kinh nghiệm 1 năm làm ở siêu thị bony",
-        tags:["employee","part-time","supermarket"],
+        name:"xinh đẹp",
+        description:"bé này rất xinh đẹp nha!",
+        tags:["beautiful","cute"],
         
-        demo:"https://www.facebook.com/sieuthibonysmart",
-        github:"https://github.com/duy1111"
+        demo:"https://www.facebook.com/profile.php?id=100034433200560",
+        github:"https://www.facebook.com/profile.php?id=100034433200560"
     },
     {
         id:2,
-        name:"Cami Coffee & Sport",
-        description:"Kinh nghiệm làm ở cà fê cami",
-        tags:["Sport","Coffee","part-time","employee"],
+        name:"cute",
+        description:"Người gì mà cute dữ zậy",
+        tags:["beautiful","cute"],
         
-        demo:"https://www.facebook.com/CamiCoffeeSport",
-        github:"https://github.com/duy1111"
+        demo:"https://www.facebook.com/profile.php?id=100034433200560",
+        github:"https://www.facebook.com/profile.php?id=100034433200560"
         
     },
     {
         id:3,
-        name:"Nhà Sách Phương Nam Đà Nẵng",
-        description:"Kinh nghiệm làm ở nhà sách được tặng đồng phục",
-        tags:["part-time","employee","Bookstore"],
+        name:"dễ thương hết phần thiên hạ",
+        description:"đã xinh rồi mà còn dễ thương hết phần thiên hạ nữa chứ -.-",
+        tags:["beautiful","cute"],
         
-        demo:"https://www.facebook.com/nhasachphuongnamdanang",
-        github:"https://github.com/duy1111"
+        demo:"https://www.facebook.com/profile.php?id=100034433200560",
+        github:"https://www.facebook.com/profile.php?id=100034433200560"
     }
     
   
