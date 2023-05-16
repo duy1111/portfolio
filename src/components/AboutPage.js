@@ -72,7 +72,7 @@ const AboutPage = () => {
             <img src={astronaut} alt="spaceman" />
         </Spaceman>    
         <Main>
-        Là bé nhân viên cute ở siêu thị và nhà ở nam ô ...<br />
+        Là bé nhân viên cute ở siêu thị ...<br />
          <br/>
          
 <br/> 
