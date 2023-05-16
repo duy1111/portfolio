@@ -96,7 +96,7 @@ const MySkillsPage = () => {
     <Design width={40} height={40} /> Sở thích 1
 </Title>
 <Description>
-tui nghĩ là uống trà sữa ...
+Tôi nghĩ là uống trà sữa ...
 </Description>
 <Description>
 <strong></strong>
