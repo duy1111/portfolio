@@ -93,37 +93,37 @@ const MySkillsPage = () => {
 <ParticleComponent theme='light' />
             <Main>
 <Title>
-    <Design width={40} height={40} /> Time management
+    <Design width={40} height={40} /> Sở thích 1
 </Title>
 <Description>
-Time management is a crucial skill for a part-time employee.
+còn trống
 </Description>
 <Description>
-<strong>Skills</strong>
+<strong></strong>
 <p>
-    It involves prioritizing tasks, effectively allocating time, and meeting deadlines.
+    
 </p>
 </Description>
 <Description>
-<strong>benefit</strong>
+<strong></strong>
 <p>
-    Good time management ensures that a part-time employee can efficiently complete work and meet time requirements.
+    
 </p>
 </Description>
 
             </Main>
             <Main>
 <Title>
-    <Develope width={40} height={40} /> Communication skill
+    <Develope width={40} height={40} /> Sở thích 2
 </Title>
 <Description>
-Part-time employees often work with colleagues and customers within limited time frames. 
+còn trống
 </Description>
 <Description>
-<strong>Skills</strong>
+<strong></strong>
 <ul>
-    <li>Strong communication skills are essential for effectively interacting with others and conveying information clearly. </li>
-    <li>Communication skills also encompass active listening and understanding colleagues' and customers' needs and feedback.</li>
+    <li></li>
+    <li></li>
 </ul>
 </Description>
 

@@ -4,7 +4,7 @@ export const Work = [
     {
         id:1,
         name:"Bony supermarket",
-        description:"I have 1 year of experience working in a supermarket",
+        description:"Kinh nghiệm 1 năm làm ở siêu thị bony",
         tags:["employee","part-time","supermarket"],
         
         demo:"https://www.facebook.com/sieuthibonysmart",
@@ -13,7 +13,7 @@ export const Work = [
     {
         id:2,
         name:"Cami Coffee & Sport",
-        description:"I have 2 weeks working experience at Cami Coffee & Sport",
+        description:"Kinh nghiệm làm ở cà fê cami",
         tags:["Sport","Coffee","part-time","employee"],
         
         demo:"https://www.facebook.com/CamiCoffeeSport",
@@ -23,7 +23,7 @@ export const Work = [
     {
         id:3,
         name:"Nhà Sách Phương Nam Đà Nẵng",
-        description:"I have 1 month of experience working at Phuong Nam Bookstore Da Nang",
+        description:"Kinh nghiệm làm ở nhà sách được tặng đồng phục",
         tags:["part-time","employee","Bookstore"],
         
         demo:"https://www.facebook.com/nhasachphuongnamdanang",

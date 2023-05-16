@@ -72,9 +72,9 @@ const AboutPage = () => {
             <img src={astronaut} alt="spaceman" />
         </Spaceman>    
         <Main>
-        As a part-time employee with one year of experience, I bring a diverse skill set and a strong work ethic to any role I take on. Throughout my professional journey, I have developed valuable expertise in various areas, allowing me to contribute effectively in part-time positions. With my solid foundation and dedication, I consistently strive to deliver exceptional results.<br />
+        Là bé nhân viên cute ở siêu thị và nhà ở nam ô ...<br />
          <br/>
-         During my one year of experience as a part-time employee, I have honed my organizational and time management skills, enabling me to efficiently handle multiple tasks and meet deadlines. I have also cultivated excellent communication and interpersonal abilities, allowing me to collaborate seamlessly with colleagues and provide exceptional customer service. I love to write blogs and read books.
+         
 <br/> 
         </Main>
 

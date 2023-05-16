@@ -159,7 +159,7 @@ const Main = () => {
                 whileTap={{scale: 0.9}}
                 
                 >
-                    Say hi..
+                    Nhắn cho tôi..
                 </motion.h2>
             </Contact>
             <BLOG to="/blog">
@@ -175,7 +175,7 @@ const Main = () => {
                 whileHover={{scale: 1.1}}
                 whileTap={{scale: 0.9}}
                 >
-                    Blog
+                    Ảnh
                 </motion.h2>
             </BLOG>
             <WORK to="/work" click={+click}>
@@ -191,7 +191,7 @@ const Main = () => {
                  whileHover={{scale: 1.1}}
                 whileTap={{scale: 0.9}}
                 >
-                    Work
+                    Kinh nghiệm
                 </motion.h2>
             </WORK>
             <BottomBar>
@@ -208,7 +208,7 @@ const Main = () => {
                  whileHover={{scale: 1.1}}
                 whileTap={{scale: 0.9}}
                 >
-                    About.
+                    Mô tả.
                 </motion.h2>
             </ABOUT>
             <SKILLS to="/skills">
@@ -224,7 +224,7 @@ const Main = () => {
                  whileHover={{scale: 1.1}}
                 whileTap={{scale: 0.9}}
                 >
-                    My Skills.
+                    Sở thích
                 </motion.h2>
             </SKILLS>
 
