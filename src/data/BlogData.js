@@ -49,6 +49,15 @@ export const Blogs = [
         imgSrc:"https://res.cloudinary.com/dcro4uhpj/image/upload/v1684254811/pt/anh-tu-suong1_aavwk9.png",
         link:"https://www.instagram.com/stories/pthao.phthao/3104054005914154757/"
 
+    },
+    {
+        id:7,
+        name:"Video tự sướng ở cafe part 2",
+        tags:["cute","tusuong","cafe"],
+        date:"19 May, 2023",
+        imgSrc:"https://res.cloudinary.com/dcro4uhpj/image/upload/c_thumb,w_200,g_face/v1684514849/pt/tusuong7_wtk83g.png",
+        link:"https://www.facebook.com/stories/186133045877801/UzpfSVNDOjgxNzk3ODk1NjM1Nzg4NQ==/?view_single=false"
+
     }
   
 ] 
