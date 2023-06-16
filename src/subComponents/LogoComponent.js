@@ -19,7 +19,7 @@ z-index:3;
 const LogoComponent = (props) => {
     return (
         <Logo color={props.theme}>
-          PT
+          1-3-5
         </Logo>
     )
 }
