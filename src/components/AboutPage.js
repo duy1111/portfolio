@@ -72,7 +72,7 @@ const AboutPage = () => {
             <img src={astronaut} alt="spaceman" />
         </Spaceman>    
         <Main>
-        Là bé nhân viên cute ở siêu thị ...<br />
+        "Thích Ăn Thua" - Nhóm chúng tôi là một đội ngũ dễ thương đến đáng yêu. Dù thắng hay thua, chúng tôi không bao giờ ngại trở thành những chú ếch nhỏ dũng cảm, nhảy vào những trận đấu với nụ cười rạng rỡ trên môi. Chúng tôi không chỉ thích "ăn" thành công mà còn hứng thú với "thua" để học hỏi và trưởng thành. Bên cạnh việc trổ tài ăn uống, chúng tôi còn chăm chỉ chinh phục mục tiêu và chia sẻ niềm vui với những người xung quanh. Với tinh thần dễ thương và đáng yêu, chúng tôi là đội ngũ "Thích Ăn Thua" - những người bạn đáng yêu không chỉ trong trò chơi, mà còn trong trái tim!<br />
          <br/>
          
 <br/> 

@@ -224,7 +224,7 @@ const Main = () => {
                  whileHover={{scale: 1.1}}
                 whileTap={{scale: 0.9}}
                 >
-                    Sở thích
+                    Kỹ năng
                 </motion.h2>
             </SKILLS>
 

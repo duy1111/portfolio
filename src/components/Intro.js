@@ -43,8 +43,9 @@ display: flex;
     position: absolute;
     bottom: 0;
     left: 50%;
-    transform: translate(-50%,0%);
-    width: 70%;
+    top:50%;
+    transform: translate(-50%,-55%);
+    width: 100%;
     height: auto;
 }
 `
@@ -80,15 +81,15 @@ const Intro = () => {
             <SubBox>
                 <Text>
                     <h1>Hi,</h1>
-                    <h3>I'm Phương Thảo.</h3>
-                    <h6>tui là bé nhân viên cute</h6>
+                    <h3>Chúng tôi là Team hơn thua.</h3>
+                    <h6>Thích Ăn Thua - Đánh đấm đến cùng, chẳng bao giờ thua!</h6>
                 </Text>
             </SubBox>
             <SubBox>
                 <motion.div
-                initial={{opacity:0}}
-        animate={{opacity: 1}}
-        transition={{ duration:1, delay:2 }}
+                    initial={{opacity:0}}
+                    animate={{opacity: 1}}
+                    transition={{ duration:1, delay:2 }}
                 >
                     <img className="pic" src={Me} alt="Profile Pic" />
                 </motion.div>

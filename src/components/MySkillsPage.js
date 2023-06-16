@@ -93,15 +93,18 @@ const MySkillsPage = () => {
 <ParticleComponent theme='light' />
             <Main>
 <Title>
-    <Design width={40} height={40} /> Sở thích 1
+    <Design width={40} height={40} /> Giải mật thư
 </Title>
 <Description>
-Tôi nghĩ là uống trà sữa ...
+Chúng tôi có khả năng giải mật thư siêu đỉnh
 </Description>
 <Description>
-<strong></strong>
+<strong>thành quả</strong>
 <p>
-    
+    <ul>
+        <li>Đứng nhất mật thư trong tuần 1</li>
+        <li>Đứng nhất mật thư trong tuần 2</li>
+    </ul>
 </p>
 </Description>
 <Description>
@@ -114,17 +117,19 @@ Tôi nghĩ là uống trà sữa ...
             </Main>
             <Main>
 <Title>
-    <Develope width={40} height={40} /> Sở thích 2
+    <Develope width={40} height={40} /> Team work
 </Title>
 <Description>
-vài bữa nữa biết rùi thêm sau :))
+Đội ngũ "Thích Ăn Thua" không chỉ đáng yêu mà còn có kỹ năng teamwork xuất sắc. 
+
+
+
 </Description>
+Chúng tôi lắng nghe và tôn trọng ý kiến của nhau, không ngại chia sẻ ý tưởng và góp ý để đạt được mục tiêu chung.
+Chúng tôi như những mắt cầu vồng, mỗi thành viên đều có một sắc màu riêng, nhưng khi kết hợp lại, chúng tôi tạo ra một hình ảnh tuyệt đẹp. 
 <Description>
 <strong></strong>
-<ul>
-    <li></li>
-    <li></li>
-</ul>
+
 </Description>
 
 

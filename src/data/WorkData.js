@@ -3,31 +3,31 @@
 export const Work = [
     {
         id:1,
-        name:"xinh đẹp",
-        description:"trúc xinh trúc mọc đầu đình Thảo xinh thảo đứng mụt mình cũng xinh",
-        tags:["beautiful","cute"],
+        name:"Teamwork",
+        description:"Kĩ năng teamwork là team hơn thua luôn có",
+        tags:["Teamwork","victorious"],
         
-        demo:"https://www.facebook.com/profile.php?id=100034433200560",
-        github:"https://www.facebook.com/profile.php?id=100034433200560"
+        demo:"https://www.facebook.com/profile.php?id=100069585531729",
+        github:"https://www.facebook.com/profile.php?id=100069585531729"
     },
     {
         id:2,
-        name:"cute",
-        description:"Con cò be bé \nNó đậu cành tre\nBé này cute\nNên cho 10đ",
-        tags:["beautiful","cute"],
+        name:"Tính ăn thua",
+        description:"Vào đây sẽ được training 1 khóa siêu cấp pro về tính ăn thua",
+        tags:["victorious"],
         
-        demo:"https://www.facebook.com/profile.php?id=100034433200560",
-        github:"https://www.facebook.com/profile.php?id=100034433200560"
+        demo:"https://www.facebook.com/profile.php?id=100069585531729",
+        github:"https://www.facebook.com/profile.php?id=100069585531729"
         
     },
     {
         id:3,
-        name:"dễ thương",
-        description:"Mỗi cây mỗi hoa, mỗi nhà mỗi cảnh, Mỗi mình Thảo dễ thương",
-        tags:["beautiful","cute"],
+        name:"nói không với gian lận",
+        description:"team mình luôn dựa vào thực lực để win nói không với gian lận nhé!",
+        tags:["no-cheat","strength"],
         
-        demo:"https://www.facebook.com/profile.php?id=100034433200560",
-        github:"https://www.facebook.com/profile.php?id=100034433200560"
+        demo:"https://www.facebook.com/profile.php?id=100069585531729",
+        github:"https://www.facebook.com/profile.php?id=100069585531729"
     }
     
   
